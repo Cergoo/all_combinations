@@ -1,0 +1,12 @@
+[package]
+name = "all_combinations"
+version = "0.1.0"
+edition = "2021"
+description = "brute force iterator"
+license = "MIT"
+repository = "https://github.com/Cergoo/all_combinations"
+categories = ["hacking"]
+documentation = "https://docs.rs/all_combinations"
+readme = "README.md"
+
+[dependencies]
