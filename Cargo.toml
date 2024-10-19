@@ -5,7 +5,7 @@ edition = "2021"
 description = "brute force iterator"
 license = "MIT"
 repository = "https://github.com/Cergoo/all_combinations"
-categories = ["Cryptography"]
+categories = ["cryptography"]
 documentation = "https://docs.rs/all_combinations"
 readme = "README.md"
 
